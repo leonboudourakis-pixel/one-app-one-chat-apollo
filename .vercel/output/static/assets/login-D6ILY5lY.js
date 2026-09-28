@@ -1,0 +1,1 @@
+import{l as e,n as t}from"./link-CGFzApqw.js";import{l as n,n as r,t as i}from"./login-panel-Zt3F0PfI.js";var a=e();function o(){let{user:e,isPending:o}=n();return o?(0,a.jsx)(r,{}):e?(0,a.jsx)(t,{to:`/`}):(0,a.jsx)(i,{})}export{o as component};

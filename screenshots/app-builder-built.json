@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Splitbench",
+      "hasCanvas": false,
+      "bodyTextLen": 669,
+      "bodyTextHash": "449d63afdc056c9b1d59b2430bb1d3e1954e7c68f2ea628edb7f8f0000b07084",
+      "bodyTextPrefix": "Splitbench One app. One chat. More than one role. Type what to b",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Splitbench",
+      "hasCanvas": false,
+      "bodyTextLen": 669,
+      "bodyTextHash": "449d63afdc056c9b1d59b2430bb1d3e1954e7c68f2ea628edb7f8f0000b07084",
+      "bodyTextPrefix": "Splitbench One app. One chat. More than one role. Type what to b",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
